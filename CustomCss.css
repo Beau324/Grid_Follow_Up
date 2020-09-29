@@ -1,0 +1,83 @@
+﻿* {
+    margin: 0 auto;
+    text-align: center;
+    font-weight:bold;
+}
+.container{
+    border:dashed red 5px;
+}
+body {
+
+}
+.header {
+    background-color: burlywood;
+}
+.nav {
+    background-color: darkcyan;
+    color:white;
+}
+.section{
+    background-color:lightgray;
+}
+.article{
+    background-color:darkmagenta;
+    color:white;
+}
+.aside{
+    background-color:aqua;
+}
+.footer {
+    background-color: darkgoldenrod;
+}
+.row {
+    min-height: 50px;
+    border:solid 2px black;
+}
+.middle {
+    height: 200px
+}
+
+.double {
+    /*height: 100px;*/
+}
+
+.col {
+    min-height: 50px;
+    border:solid 2px black;
+}
+.one {
+    background-color:darkblue 
+}
+.two {
+    background-color:cadetblue 
+}
+.three {
+    background-color:darkgoldenrod
+}
+.four {
+    background-color:lightgray
+}
+.five {
+    background-color:burlywood
+}
+.six {
+    background-color: darkmagenta
+}
+.seven {
+    background-color:darkolivegreen
+}
+.eight {
+    background-color:darkviolet 
+}
+.nine {
+    background-color:darkorange
+}
+.ten {
+    background-color:aqua 
+}
+.eleven {
+    background-color:darkorchid
+}
+.twelve {
+    background-color:darkred 
+}
