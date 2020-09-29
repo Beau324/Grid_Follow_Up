@@ -1,49 +1,61 @@
 ﻿* {
     margin: 0 auto;
-    text-align: center;
+    justify-content: center;
     font-weight:bold;
+    text-align:center;
 }
 .container{
     border:dashed red 5px;
+    
 }
 body {
 
 }
 .header {
     background-color: burlywood;
+    border: solid black;
 }
 .nav {
     background-color: darkcyan;
-    color:white;
+    color: white;
+    border: solid black;
 }
-.section{
-    background-color:lightgray;
+.section {
+    background-color: lightgray;
+    border: solid black;
 }
-.article{
-    background-color:darkmagenta;
-    color:white;
+.article {
+    background-color: darkmagenta;
+    color: white;
+    border: solid black;
 }
-.aside{
-    background-color:aqua;
+.aside {
+    background-color: aqua;
+    border: solid black;
 }
 .footer {
     background-color: darkgoldenrod;
+    border: solid  black;
 }
-.row {
+/*.row {*/
     min-height: 50px;
-    border:solid 2px black;
+    border:solid thin black;
 }
 .middle {
     height: 200px
 }
 
 .double {
-    /*height: 100px;*/
+    height: 100px;
 }
 
 .col {
     min-height: 50px;
-    border:solid 2px black;
+    border:solid black;
+}
+bottom {
+    height: 50px;
+    border: solid black;
 }
 .one {
     background-color:darkblue 
