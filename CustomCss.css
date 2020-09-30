@@ -1,46 +1,49 @@
 ﻿* {
     margin: 0 auto;
     justify-content: center;
-    font-weight:bold;
-    text-align:center;
+    font-weight: bold;
+    text-align: center;
 }
-.container{
-    border:dashed red 5px;
-    
-}
-body {
 
+.container {
+    border: dashed red 5px;
 }
+
+body {
+}
+
 .header {
     background-color: burlywood;
     border: solid black;
 }
+
 .nav {
     background-color: darkcyan;
     color: white;
     border: solid black;
 }
+
 .section {
     background-color: lightgray;
     border: solid black;
 }
+
 .article {
     background-color: darkmagenta;
     color: white;
     border: solid black;
 }
+
 .aside {
     background-color: aqua;
     border: solid black;
 }
+
 .footer {
     background-color: darkgoldenrod;
-    border: solid  black;
+    border: solid black;
 }
-/*.row {*/
-    min-height: 50px;
-    border:solid thin black;
-}
+
 .middle {
     height: 200px
 }
@@ -48,48 +51,63 @@ body {
 .double {
     height: 100px;
 }
-
+.row{
+    min-height:50px;
+}
 .col {
     min-height: 50px;
-    border:solid black;
+    border: solid black;
 }
+
 bottom {
     height: 50px;
     border: solid black;
 }
+
 .one {
-    background-color:darkblue 
+    background-color: darkblue
 }
+
 .two {
-    background-color:cadetblue 
+    background-color: cadetblue
 }
+
 .three {
-    background-color:darkgoldenrod
+    background-color: darkgoldenrod
 }
+
 .four {
-    background-color:lightgray
+    background-color: lightgray
 }
+
 .five {
-    background-color:burlywood
+    background-color: burlywood
 }
+
 .six {
     background-color: darkmagenta
 }
+
 .seven {
-    background-color:darkolivegreen
+    background-color: darkolivegreen
 }
+
 .eight {
-    background-color:darkviolet 
+    background-color: darkviolet
 }
+
 .nine {
-    background-color:darkorange
+    background-color: darkorange
 }
+
 .ten {
-    background-color:aqua 
+    background-color: aqua
 }
+
 .eleven {
-    background-color:darkorchid
+    background-color: darkorchid
 }
+
 .twelve {
-    background-color:darkred 
+    background-color: darkred
 }
